@@ -82,7 +82,8 @@ If you want to retrain the model from scratch, refer to:
 
 ## 🖼️ App Preview
 
-> *(Optional: Add a screenshot here using \`![screenshot](preview.png)\`)*
+<img width="1162" height="598" alt="image" src="https://github.com/user-attachments/assets/d0fd679e-f510-4833-8d5e-54fd959e9601" />
+
 
 ---
 
