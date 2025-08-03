@@ -14,7 +14,7 @@ reversed_word_index = {value: key for key, value in word_index.items()}
 # -------------------------------
 # 🔹 Load Pre-trained Model
 # -------------------------------
-model = load_model('simple_rnn_imdb.keras')
+model = load_model('simple_rnn_imdb.h5')
 
 # -------------------------------
 # 🔹 Helper Functions
@@ -50,4 +50,5 @@ if st.button('Classify'):
         # Display results
         st.markdown(f"**Sentiment:** {sentiment}")
         st.markdown(f"**Confidence Score:** `{prediction[0][0]:.4f}`")
+
 
